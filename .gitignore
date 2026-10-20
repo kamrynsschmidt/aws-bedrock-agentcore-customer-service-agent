@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# AWS credentials and configuration
+.aws/
+.env
+.env.*
+*.pem
+*.key
+
+# AgentCore deployment files
+agentcore/
+.cdk.out/
+cdk.out/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
